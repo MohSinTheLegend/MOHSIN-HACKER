@@ -72,9 +72,9 @@ logo = """
 \033[1;97m-----------------------------------------------
 \033[1;91m➣ CODING BY: MOHSIN ALI
 \033[1;92m FACEBOOK  : MOHSIN.ALI.THE.FATHER.OF.HATERX
-\033[1;91m INSTAGRAM : Mohsin_Ali_Official_786
+\033[1;93m INSTAGRAM : Mohsin_Ali_Official_786
 \033[1;94m PAGE      : MohsinAliOfficial
-\033[1;91m➣ WhatsApp: +923063112***
+\033[1;95m➣ WhatsApp: +923063112***
 \033[1;97m-----------------------------------------------"""
 # titik #
 def tik():
